@@ -64,7 +64,6 @@
    [![CalidadCloud](https://img.shields.io/badge/Software-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.calidadcloud.com/)
 
 </p>
-![Insignia de Credly](https://images.credly.com/images/8ab8543e-acb9-4c17-a4e5-9580bc5219c0/image.png)
 
 <br>
 <br>
