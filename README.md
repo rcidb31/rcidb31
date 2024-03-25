@@ -122,8 +122,10 @@
 
 <br>
 	
-</ul>
-</div>
+<a href="https://www.credly.com/earner/earned" target="_blank">
+  <img src="https://img.shields.io/badge/Credly-#0080FF?style=for-the-badge&logo=credly&logoColor=white" alt="Credly" style="margin-bottom: 5px;">
+</a>
+
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -133,7 +135,7 @@
 
 <div align='center'>
 
-## <b>Estudiante Chileno Futuro programador profesional...✨</b>
+## <b>Estudiante Chileno  Futuro programador profesional...✨</b>
 
 </div>
 <br>
@@ -145,9 +147,6 @@
 
 <br>
 
-Credit: [Abdul Khalid](https://github.com/0xabdulkhalid)
-
-Last Edited on: 09/11/2022
 
 
 
