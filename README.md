@@ -57,7 +57,8 @@
 
 - **Extras**:
  
-administrator for 5 years in software for quality control in buildings ( Chilean Software ) 
+Administrator for 5 years in software for quality control in buildings ( Chilean Software ) 
+<br>
     [![CalidadCloud](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.calidadcloud.com/)
 
   
