@@ -14,11 +14,11 @@
 
 <br>
 
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
-- Personal website [link](https://www.0xabdulkhalid.ml)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+- 8 Years of experience in inspection work in construction engineering processes
+- Graduated in construction technology from the University of Santiago de Chile
+- Passionate about programming
+- I hope to merge my knowledge in construction with computer science.
+- Full stack javascript with certifications in credly
 
 <br><br>
 
