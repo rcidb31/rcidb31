@@ -64,8 +64,7 @@
    [![CalidadCloud](https://img.shields.io/badge/Software-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.calidadcloud.com/)
 
 </p>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="5c34bbfb-e407-4ebb-a586-3239b47168f0" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-
+![Insignia de Credly](https://images.credly.com/images/8ab8543e-acb9-4c17-a4e5-9580bc5219c0/image.png)
 <br>
 <br>
 
