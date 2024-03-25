@@ -122,8 +122,8 @@
 <br>
 
 <li>
-<a href="mailto:rcidb31@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  rcidb31@gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<a href=https://www.linkedin.com/in/raul-cid-62285748/" target="_blank">
+<img src="https://img.shields.io/badge/linkedin:https://www.linkedin.com/in/raul-cid-62285748/  -%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
 	
