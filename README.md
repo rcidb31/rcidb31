@@ -121,12 +121,6 @@
 </a>
 
 <br>
-
-<li>
-<a href=https://www.linkedin.com/in/raul-cid-62285748/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:https://www.linkedin.com/in/raul-cid-62285748/  -%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-</a>
-</li>
 	
 </ul>
 </div>
