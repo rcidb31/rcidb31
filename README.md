@@ -116,7 +116,9 @@
 <br>
 
 <li>
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/guitarsgasmo/)
+<a href="https://www.instagram.com/guitarsgasmo/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="margin-bottom: 5px;">
+</a>
 
 <br>
 
