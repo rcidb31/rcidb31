@@ -56,8 +56,9 @@
 <br>
 
 - **Extras**:
-
-    [![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.calidadcloud.com/)
+ 
+administrator for 5 years in software for quality control in buildings ( Chilean Software ) 
+    [![CalidadCloud](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.calidadcloud.com/)
 
   
 
