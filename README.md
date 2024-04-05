@@ -119,7 +119,7 @@
 	
 <div align='center'>
 
-## <b> 🇨🇱Estudiante Chileno🇨🇱  Futuro programador profesional...✨</b>
+## <b> Estudiante Chileno Futuro programador profesional...✨</b>
 
 </div>
 <br>
