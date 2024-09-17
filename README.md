@@ -1,15 +1,13 @@
-<h1 align="center"><b>Hi , I'm Raul Cid </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
-<div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXI4aXV6NTBwbTdiZmZnamV1OXBwM2kxbmZ4Mm96ZDdwNjlnemNwMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.webp" width="100">
-</div>
-
-
 <!-- introduccion -->
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3810F7&width=435&lines=Bienvenidos+a+mi+Github;Soy+Constructor+de+Profesion+;Ahora+Estudiante+de+programaci%C3%B3n;Sigo+mi+pasi%C3%B3n+por+el+c%C3%B3digo" alt="Typing SVG" /></a>
 </p
 <br>
+
+
+<div align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXI4aXV6NTBwbTdiZmZnamV1OXBwM2kxbmZ4Mm96ZDdwNjlnemNwMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.webp" width="100">
+</div>
 
 
 
