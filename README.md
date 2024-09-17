@@ -4,7 +4,7 @@
 
 <!-- introduccion -->
 <p align="center">
-https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3810F7&width=435&lines=%22%C2%A1Hola%2C+cabros!+%F0%9F%91%8B+Soy+Ra%C3%BAl+Cid%2C+constructor+de+profesi%C3%B3n+y+desarrollador+en+constante+aprendizaje.+%F0%9F%9A%80+Despu%C3%A9s+de+varios+a%C3%B1os+en+la+construcci%C3%B3n%2C+decid%C3%AD+meterme+de+cabeza+en+el+mundo+del+c%C3%B3digo.+Ahora+estoy+enfocado+en+crear+soluciones+bacanes+con+tecnolog%C3%ADas+como+React%2C+JavaScript%2C+y+CSS%2C+siempre+buscando+seguir+aprendiendo+y+compartiendo+lo+que+s%C3%A9.+%F0%9F%92%BB)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3810F7&width=435&lines=%22%C2%A1Hola%2C+cabros!+%F0%9F%91%8B+Soy+Ra%C3%BAl+Cid%2C+constructor+de+profesi%C3%B3n+y+desarrollador+en+constante+aprendizaje.+%F0%9F%9A%80+Despu%C3%A9s+de+varios+a%C3%B1os+en+la+construcci%C3%B3n%2C+decid%C3%AD+meterme+de+cabeza+en+el+mundo+del+c%C3%B3digo.+Ahora+estoy+enfocado+en+crear+soluciones+bacanes+con+tecnolog%C3%ADas+como+React%2C+JavaScript%2C+y+CSS%2C+siempre+buscando+seguir+aprendiendo+y+compartiendo+lo+que+s%C3%A9.+%F0%9F%92%BB">
 </p
 <br>
 
