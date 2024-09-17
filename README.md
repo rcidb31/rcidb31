@@ -6,7 +6,7 @@
   </a>
 </p
 <br>
-<picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"></picture> **Sobre Mi**
+ **Sobre Mi**
 
 <br><br>
 - 8 Years of experience in inspection work in construction engineering processes
