@@ -6,7 +6,7 @@
 
 <br>
 <div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXI4aXV6NTBwbTdiZmZnamV1OXBwM2kxbmZ4Mm96ZDdwNjlnemNwMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.webp" width="100">
+  <img  src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXI4aXV6NTBwbTdiZmZnamV1OXBwM2kxbmZ4Mm96ZDdwNjlnemNwMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.webp" width="100">
 </div>
 <br>
 
@@ -55,6 +55,7 @@
    [![CalidadCloud](https://img.shields.io/badge/Software-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.calidadcloud.com/)
   <br>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
