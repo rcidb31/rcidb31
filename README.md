@@ -49,8 +49,8 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 - **Extras**:
- 
-  **Administrator for 5 years in software for quality control in buildings**:( 🇨🇱Chilean Software🇨🇱 ) 
+  **Administrator for 5 years in software for quality control in buildings**:( 🇨🇱Chilean Software🇨🇱 )
+  <br>
    [![CalidadCloud](https://img.shields.io/badge/Software-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.calidadcloud.com/)
 
 
