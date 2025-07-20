@@ -63,9 +63,7 @@
   <img src="https://img.shields.io/badge/linkedin:%20raul--cid--62285748-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;"/>
 </a>
 </a>
-</li>
 <br>
-<li>
 <a href="https://www.instagram.com/guitarsgasmo/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="margin-bottom: 5px;">
 </a>
