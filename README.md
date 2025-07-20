@@ -34,10 +34,7 @@
    [![Bulma CSS](https://img.shields.io/badge/Bulma_CSS-00D1B2?style=for-the-badge&logo=bulma&logoColor=white)](https://bulma.io/)
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
-<br>
-- **Back-End Development**:
-   [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)  
-<br>
+
 
 - **Softwares and Badget**:
 
@@ -49,6 +46,7 @@
     ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 
 <br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 - **Extras**:
  
