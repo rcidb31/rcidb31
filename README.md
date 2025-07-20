@@ -109,21 +109,6 @@
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="margin-bottom: 5px;">
 </a>
 
-<br>
-	
-<div align='center'>
-
-## <b> Estudiante Chileno Futuro programador profesional...✨</b>
-
-</div>
-<br>
-<br>
-<br>
-<br>
-
----
-
-<br>
 
 
 
